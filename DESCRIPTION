@@ -1,0 +1,10 @@
+Package: ospr
+Type: Package
+Title: Helpful Functions for Working with OSP Data
+Version: 0.1
+Date: 2015-03-19
+Author@R: person("Jeff", "Erickson", email = "jerickson@schools.nyc.gov", role = c("aut", "cre"))
+Description: R helper functions for accessing data used by the Office of School Performance.
+License: Talk to legal?
+
+Imports: RODBC
