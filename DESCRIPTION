@@ -7,4 +7,4 @@ Author@R: person("Jeff", "Erickson", email = "jerickson@schools.nyc.gov", role =
 Description: R helper functions for accessing data used by the Office of School Performance.
 License: Talk to legal?
 
-Imports: RODBC
+Imports: haven, RODBC
